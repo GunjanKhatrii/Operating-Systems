@@ -2,7 +2,7 @@
 
 ## 🧠 About Operating Systems
 
-An **Operating System (OS)** is the fundamental software that acts as an interface between computer hardware and users. It manages hardware resources like CPU, memory, and storage, and provides essential services that allow application programs to run. Examples include Windows, macOS, and Linux.
+An **Operating System (OS)** is the fundamental software that acts as an interface between computer hardware and users. It manages hardware resources like CPU, memory, and storage, and provides essential services that allow application programs to run. Examples include Windows, macOS, and Linux. It is one of my subjects in University. I would share all my insights about whatever I learned from the labs that I did.
 
 This repository is focused on **Linux**, a powerful open-source operating system widely used in servers, embedded systems, and development environments.
 
